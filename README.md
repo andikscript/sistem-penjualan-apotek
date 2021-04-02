@@ -1,5 +1,5 @@
 # sistem-penjualan-apotek
-Web Application berbasis JSP untuk sistem penjualan apotek (farmasi) dengan dilengkapi penambahan (pembelian) dan pengurangan (penjualan) stok 
+Web Application berbasis JSP untuk sistem penjualan apotek (farmasi) dengan dilengkapi penambahan (pembelian) dan pengurangan (penjualan) stok dan menggunakan relasi antar tabel pada databasenya.
 
 ### Teknologi :
 - [x] JSP (Java Server Pages)
