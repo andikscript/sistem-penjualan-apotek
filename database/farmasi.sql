@@ -289,7 +289,7 @@ CREATE TABLE `pegawai` (
 --
 
 INSERT INTO `pegawai` (`id_pegawai`, `nama_pegawai`, `alamat`, `no_hp`, `email`, `tanggal_input`, `tanggal_update`) VALUES
-('PGAND001', 'Andik Saputro', 'Jl. Poncosiwalan No. 158 Ponorogo', '0895363688341', 'andikmindai@gmail.com', '2019-11-03 16:59:14', '2019-11-03 16:59:14'),
+('PGAND001', 'Andik Script', 'Jl. sidodadi 13 Ponorogo', '0895363688341', 'andikmindai@gmail.com', '2019-11-03 16:59:14', '2019-11-03 16:59:14'),
 ('PGIND002', 'Indah Sari ', 'Jl. Suramadu No. 10 Surakarta', '086578901265', 'sariindah@gmail.com', '2019-11-03 16:59:14', '2019-11-03 16:59:37');
 
 -- --------------------------------------------------------
